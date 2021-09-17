@@ -43,3 +43,8 @@ cd TyphoonLimbo
 go build
 ./TyphoonLimbo
 ```
+
+### Co nie dziala (TyphoonCore)
+- losowe keepalive wypierdalajace
+- teleportowanie gracza przy dolaczeniu na serwer 
+- ustawianie gamemode
